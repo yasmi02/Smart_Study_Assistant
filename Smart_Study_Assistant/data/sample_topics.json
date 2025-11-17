@@ -1,0 +1,755 @@
+{
+  "topics": [
+    {
+      "name": "Python Programlama",
+      "keywords": "python programlama kodlama temel ileri düzey syntax veri yapıları",
+      "difficulty": {
+        "beginner": [
+          "https://www.youtube.com/watch?v=rfscVS0vtbw",
+          "https://python.org/about/gettingstarted/",
+          "https://www.w3schools.com/python/"
+        ],
+        "intermediate": [
+          "https://realpython.com/",
+          "https://www.youtube.com/c/CoreySchafer",
+          "https://docs.python.org/3/tutorial/"
+        ],
+        "advanced": [
+          "https://www.youtube.com/c/anthonywritescode",
+          "https://github.com/python/cpython",
+          "https://peps.python.org/"
+        ]
+      },
+      "learning_style": {
+        "video": [
+          "https://www.youtube.com/watch?v=rfscVS0vtbw",
+          "https://www.youtube.com/c/CoreySchafer"
+        ],
+        "reading": [
+          "https://docs.python.org/3/",
+          "https://realpython.com/"
+        ],
+        "practice": [
+          "https://www.hackerrank.com/domains/python",
+          "https://leetcode.com/",
+          "https://exercism.org/tracks/python"
+        ],
+        "game": [
+          "https://www.codewars.com/",
+          "https://checkio.org/"
+        ]
+      },
+      "popularity": "popular"
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": "makine öğrenmesi yapay zeka ai algoritma model eğitim",
+      "difficulty": {
+        "beginner": [
+          "https://www.coursera.org/learn/machine-learning",
+          "https://www.youtube.com/watch?v=GwIo3gDZCVQ",
+          "https://scikit-learn.org/stable/getting_started.html"
+        ],
+        "intermediate": [
+          "https://www.fast.ai/",
+          "https://www.kaggle.com/learn",
+          "https://course.fast.ai/"
+        ],
+        "advanced": [
+          "https://www.deeplearning.ai/",
+          "https://arxiv.org/",
+          "https://paperswithcode.com/"
+        ]
+      },
+      "learning_style": {
+        "video": [
+          "https://www.youtube.com/watch?v=GwIo3gDZCVQ",
+          "https://www.coursera.org/learn/machine-learning"
+        ],
+        "reading": [
+          "https://scikit-learn.org/",
+          "https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/"
+        ],
+        "practice": [
+          "https://www.kaggle.com/",
+          "https://www.drivendata.org/"
+        ],
+        "game": [
+          "https://playground.tensorflow.org/"
+        ]
+      },
+      "popularity": "trending"
+    },
+    {
+      "name": "Data Science",
+      "keywords": "veri bilimi analiz pandas numpy görselleştirme istatistik",
+      "difficulty": {
+        "beginner": [
+          "https://www.kaggle.com/learn/intro-to-programming",
+          "https://www.youtube.com/watch?v=ua-CiDNNj30",
+          "https://www.datacamp.com/courses/intro-to-python-for-data-science"
+        ],
+        "intermediate": [
+          "https://www.datacamp.com/",
+          "https://pandas.pydata.org/docs/getting_started/tutorials.html",
+          "https://www.youtube.com/c/dataschool"
+        ],
+        "advanced": [
+          "https://jakevdp.github.io/PythonDataScienceHandbook/",
+          "https://www.oreilly.com/library/view/python-for-data/9781491957653/",
+          "https://github.com/donnemartin/data-science-ipython-notebooks"
+        ]
+      },
+      "learning_style": {
+        "video": [
+          "https://www.youtube.com/c/dataschool",
+          "https://www.youtube.com/watch?v=ua-CiDNNj30"
+        ],
+        "reading": [
+          "https://pandas.pydata.org/docs/",
+          "https://jakevdp.github.io/PythonDataScienceHandbook/"
+        ],
+        "practice": [
+          "https://www.kaggle.com/datasets",
+          "https://www.kaggle.com/competitions"
+        ],
+        "game": [
+          "https://www.kaggle.com/competitions"
+        ]
+      },
+      "popularity": "popular"
+    },
+    {
+      "name": "Web Geliştirme",
+      "keywords": "web development html css javascript react frontend backend",
+      "difficulty": {
+        "beginner": [
+          "https://www.freecodecamp.org/",
+          "https://www.youtube.com/watch?v=UB1O30fR-EE",
+          "https://www.w3schools.com/"
+        ],
+        "intermediate": [
+          "https://javascript.info/",
+          "https://www.theodinproject.com/",
+          "https://fullstackopen.com/"
+        ],
+        "advanced": [
+          "https://kentcdodds.com/",
+          "https://web.dev/",
+          "https://github.com/sindresorhus/awesome"
+        ]
+      },
+      "learning_style": {
+        "video": [
+          "https://www.youtube.com/c/TraversyMedia",
+          "https://www.youtube.com/c/Fireship"
+        ],
+        "reading": [
+          "https://developer.mozilla.org/",
+          "https://javascript.info/"
+        ],
+        "practice": [
+          "https://www.frontendmentor.io/",
+          "https://www.codewars.com/"
+        ],
+        "game": [
+          "https://flexboxfroggy.com/",
+          "https://cssgridgarden.com/"
+        ]
+      },
+      "popularity": "popular"
+    },
+    {
+      "name": "Derin Öğrenme",
+      "keywords": "deep learning neural network sinir ağı tensorflow keras pytorch",
+      "difficulty": {
+        "beginner": [
+          "https://www.coursera.org/specializations/deep-learning",
+          "https://www.youtube.com/watch?v=aircAruvnKk",
+          "https://www.tensorflow.org/tutorials"
+        ],
+        "intermediate": [
+          "https://www.fast.ai/",
+          "https://pytorch.org/tutorials/",
+          "https://www.deeplearning.ai/"
+        ],
+        "advanced": [
+          "https://arxiv.org/list/cs.LG/recent",
+          "https://paperswithcode.com/",
+          "https://distill.pub/"
+        ]
+      },
+      "learning_style": {
+        "video": [
+          "https://www.youtube.com/watch?v=aircAruvnKk",
+          "https://www.coursera.org/specializations/deep-learning"
+        ],
+        "reading": [
+          "https://www.deeplearningbook.org/",
+          "https://pytorch.org/tutorials/"
+        ],
+        "practice": [
+          "https://www.kaggle.com/competitions",
+          "https://paperswithcode.com/datasets"
+        ],
+        "game": [
+          "https://playground.tensorflow.org/"
+        ]
+      },
+      "popularity": "trending"
+    },
+    {
+      "name": "SQL ve Veritabanı",
+      "keywords": "sql database veritabanı mysql postgresql sqlite query sorgu",
+      "difficulty": {
+        "beginner": [
+          "https://www.w3schools.com/sql/",
+          "https://www.youtube.com/watch?v=HXV3zeQKqGY",
+          "https://sqlzoo.net/"
+        ],
+        "intermediate": [
+          "https://mode.com/sql-tutorial/",
+          "https://www.postgresql.org/docs/current/tutorial.html",
+          "https://www.youtube.com/watch?v=qw--VYLpxG4"
+        ],
+        "advanced": [
+          "https://use-the-index-luke.com/",
+          "https://www.postgresql.org/docs/",
+          "https://github.com/kahun/awesome-sysadmin"
+        ]
+      },
+      "learning_style": {
+        "video": [
+          "https://www.youtube.com/watch?v=HXV3zeQKqGY",
+          "https://www.youtube.com/watch?v=qw--VYLpxG4"
+        ],
+        "reading": [
+          "https://www.postgresql.org/docs/",
+          "https://mode.com/sql-tutorial/"
+        ],
+        "practice": [
+          "https://sqlzoo.net/",
+          "https://leetcode.com/problemset/database/",
+          "https://www.hackerrank.com/domains/sql"
+        ],
+        "game": [
+          "https://mystery.knightlab.com/",
+          "https://sqlbolt.com/"
+        ]
+      },
+      "popularity": "popular"
+    },
+    {
+      "name": "Git ve GitHub",
+      "keywords": "git github version control versiyon kontrol repository commit",
+      "difficulty": {
+        "beginner": [
+          "https://www.youtube.com/watch?v=RGOj5yH7evk",
+          "https://git-scm.com/book/en/v2",
+          "https://try.github.io/"
+        ],
+        "intermediate": [
+          "https://www.atlassian.com/git/tutorials",
+          "https://learngitbranching.js.org/",
+          "https://www.youtube.com/watch?v=Uszj_k0DGsg"
+        ],
+        "advanced": [
+          "https://git-scm.com/docs",
+          "https://github.com/k88hudson/git-flight-rules",
+          "https://ohshitgit.com/"
+        ]
+      },
+      "learning_style": {
+        "video": [
+          "https://www.youtube.com/watch?v=RGOj5yH7evk",
+          "https://www.youtube.com/watch?v=Uszj_k0DGsg"
+        ],
+        "reading": [
+          "https://git-scm.com/book/en/v2",
+          "https://www.atlassian.com/git/tutorials"
+        ],
+        "practice": [
+          "https://learngitbranching.js.org/",
+          "https://github.com/explore"
+        ],
+        "game": [
+          "https://learngitbranching.js.org/",
+          "https://ohmygit.org/"
+        ]
+      },
+      "popularity": "popular"
+    },
+    {
+      "name": "Docker ve Konteyner",
+      "keywords": "docker container kubernetes devops deployment containerization",
+      "difficulty": {
+        "beginner": [
+          "https://www.youtube.com/watch?v=fqMOX6JJhGo",
+          "https://docs.docker.com/get-started/",
+          "https://www.docker.com/101-tutorial/"
+        ],
+        "intermediate": [
+          "https://www.youtube.com/watch?v=3c-iBn73dDE",
+          "https://docker-curriculum.com/",
+          "https://kubernetes.io/docs/tutorials/"
+        ],
+        "advanced": [
+          "https://docs.docker.com/develop/",
+          "https://kubernetes.io/docs/home/",
+          "https://github.com/veggiemonk/awesome-docker"
+        ]
+      },
+      "learning_style": {
+        "video": [
+          "https://www.youtube.com/watch?v=fqMOX6JJhGo",
+          "https://www.youtube.com/watch?v=3c-iBn73dDE"
+        ],
+        "reading": [
+          "https://docs.docker.com/",
+          "https://docker-curriculum.com/"
+        ],
+        "practice": [
+          "https://labs.play-with-docker.com/",
+          "https://www.katacoda.com/courses/docker"
+        ],
+        "game": [
+          "https://labs.play-with-docker.com/"
+        ]
+      },
+      "popularity": "trending"
+    },
+    {
+      "name": "Cloud Computing",
+      "keywords": "cloud aws azure bulut bilişim serverless lambda ec2",
+      "difficulty": {
+        "beginner": [
+          "https://aws.amazon.com/getting-started/",
+          "https://www.youtube.com/watch?v=3hLmDS179YE",
+          "https://cloud.google.com/training/free"
+        ],
+        "intermediate": [
+          "https://www.coursera.org/learn/aws-fundamentals-going-cloud-native",
+          "https://azure.microsoft.com/en-us/training/",
+          "https://www.youtube.com/c/amazonwebservices"
+        ],
+        "advanced": [
+          "https://aws.amazon.com/certification/",
+          "https://cloud.google.com/certification",
+          "https://github.com/donnemartin/awesome-aws"
+        ]
+      },
+      "learning_style": {
+        "video": [
+          "https://www.youtube.com/watch?v=3hLmDS179YE",
+          "https://www.youtube.com/c/amazonwebservices"
+        ],
+        "reading": [
+          "https://aws.amazon.com/getting-started/",
+          "https://cloud.google.com/docs"
+        ],
+        "practice": [
+          "https://aws.amazon.com/free/",
+          "https://azure.microsoft.com/en-us/free/"
+        ],
+        "game": [
+          "https://awsworkshop.io/"
+        ]
+      },
+      "popularity": "trending"
+    },
+    {
+      "name": "Siber Güvenlik",
+      "keywords": "cybersecurity güvenlik hacking ethical penetration test",
+      "difficulty": {
+        "beginner": [
+          "https://www.youtube.com/watch?v=U_P23SqJaDc",
+          "https://www.cybrary.it/",
+          "https://www.hacksplaining.com/"
+        ],
+        "intermediate": [
+          "https://www.offensive-security.com/",
+          "https://www.youtube.com/c/NetworkChuck",
+          "https://tryhackme.com/"
+        ],
+        "advanced": [
+          "https://www.offensive-security.com/pwk-oscp/",
+          "https://www.hackthebox.com/",
+          "https://github.com/sundowndev/hacker-roadmap"
+        ]
+      },
+      "learning_style": {
+        "video": [
+          "https://www.youtube.com/watch?v=U_P23SqJaDc",
+          "https://www.youtube.com/c/NetworkChuck"
+        ],
+        "reading": [
+          "https://owasp.org/",
+          "https://www.cybrary.it/"
+        ],
+        "practice": [
+          "https://tryhackme.com/",
+          "https://www.hackthebox.com/",
+          "https://overthewire.org/wargames/"
+        ],
+        "game": [
+          "https://overthewire.org/wargames/",
+          "https://www.hacksplaining.com/"
+        ]
+      },
+      "popularity": "trending"
+    },
+    {
+      "name": "Blockchain",
+      "keywords": "blockchain kripto cryptocurrency bitcoin ethereum smart contract",
+      "difficulty": {
+        "beginner": [
+          "https://www.youtube.com/watch?v=SSo_EIwHSd4",
+          "https://www.coursera.org/learn/blockchain-basics",
+          "https://ethereum.org/en/developers/learning-tools/"
+        ],
+        "intermediate": [
+          "https://cryptozombies.io/",
+          "https://www.youtube.com/c/DappUniversity",
+          "https://solidity-by-example.org/"
+        ],
+        "advanced": [
+          "https://ethereum.org/en/developers/docs/",
+          "https://github.com/ethereumbook/ethereumbook",
+          "https://github.com/rust-blockchain/awesome-blockchain-rust"
+        ]
+      },
+      "learning_style": {
+        "video": [
+          "https://www.youtube.com/watch?v=SSo_EIwHSd4",
+          "https://www.youtube.com/c/DappUniversity"
+        ],
+        "reading": [
+          "https://ethereum.org/en/developers/docs/",
+          "https://github.com/ethereumbook/ethereumbook"
+        ],
+        "practice": [
+          "https://cryptozombies.io/",
+          "https://remix.ethereum.org/"
+        ],
+        "game": [
+          "https://cryptozombies.io/"
+        ]
+      },
+      "popularity": "trending"
+    },
+    {
+      "name": "Mobile Development",
+      "keywords": "mobil uygulama android ios react native flutter kotlin swift",
+      "difficulty": {
+        "beginner": [
+          "https://flutter.dev/docs/get-started",
+          "https://www.youtube.com/watch?v=1ukSR1GRtMU",
+          "https://reactnative.dev/docs/getting-started"
+        ],
+        "intermediate": [
+          "https://developer.android.com/courses",
+          "https://developer.apple.com/tutorials/swiftui",
+          "https://www.youtube.com/c/TheNetNinja"
+        ],
+        "advanced": [
+          "https://developer.android.com/",
+          "https://developer.apple.com/documentation/",
+          "https://github.com/topics/mobile-development"
+        ]
+      },
+      "learning_style": {
+        "video": [
+          "https://www.youtube.com/watch?v=1ukSR1GRtMU",
+          "https://www.youtube.com/c/TheNetNinja"
+        ],
+        "reading": [
+          "https://flutter.dev/docs",
+          "https://reactnative.dev/docs"
+        ],
+        "practice": [
+          "https://flutter.dev/docs/cookbook",
+          "https://developer.android.com/courses"
+        ],
+        "game": [
+          "https://flutter.dev/docs/cookbook"
+        ]
+      },
+      "popularity": "popular"
+    },
+    {
+      "name": "UI/UX Tasarım",
+      "keywords": "ui ux tasarım design figma kullanıcı deneyimi arayüz",
+      "difficulty": {
+        "beginner": [
+          "https://www.youtube.com/watch?v=c9Wg6Cb_YlU",
+          "https://www.coursera.org/learn/ui-ux-design",
+          "https://www.figma.com/resources/learn-design/"
+        ],
+        "intermediate": [
+          "https://www.interaction-design.org/",
+          "https://www.youtube.com/c/Designcode",
+          "https://www.nngroup.com/articles/"
+        ],
+        "advanced": [
+          "https://www.nngroup.com/",
+          "https://www.smashingmagazine.com/category/ux-design",
+          "https://github.com/alexpate/awesome-design-systems"
+        ]
+      },
+      "learning_style": {
+        "video": [
+          "https://www.youtube.com/watch?v=c9Wg6Cb_YlU",
+          "https://www.youtube.com/c/Designcode"
+        ],
+        "reading": [
+          "https://www.nngroup.com/articles/",
+          "https://www.smashingmagazine.com/category/ux-design"
+        ],
+        "practice": [
+          "https://www.figma.com/",
+          "https://www.dailyui.co/",
+          "https://dribbble.com/"
+        ],
+        "game": [
+          "https://www.dailyui.co/",
+          "https://cantunsee.space/"
+        ]
+      },
+      "popularity": "popular"
+    },
+    {
+      "name": "Oyun Geliştirme",
+      "keywords": "game development unity unreal oyun engine grafik 3d game",
+      "difficulty": {
+        "beginner": [
+          "https://learn.unity.com/",
+          "https://www.youtube.com/watch?v=j48LtUkZRjU",
+          "https://www.unrealengine.com/en-US/onlinelearning-courses"
+        ],
+        "intermediate": [
+          "https://www.gamedev.tv/",
+          "https://www.youtube.com/c/Brackeys",
+          "https://docs.unity3d.com/Manual/index.html"
+        ],
+        "advanced": [
+          "https://docs.unrealengine.com/",
+          "https://www.gamedeveloper.com/",
+          "https://github.com/ellisonleao/magictools"
+        ]
+      },
+      "learning_style": {
+        "video": [
+          "https://www.youtube.com/watch?v=j48LtUkZRjU",
+          "https://www.youtube.com/c/Brackeys"
+        ],
+        "reading": [
+          "https://docs.unity3d.com/Manual/",
+          "https://www.gamedeveloper.com/"
+        ],
+        "practice": [
+          "https://itch.io/jams",
+          "https://learn.unity.com/projects"
+        ],
+        "game": [
+          "https://itch.io/jams"
+        ]
+      },
+      "popularity": "popular"
+    },
+    {
+      "name": "API Geliştirme",
+      "keywords": "api rest fastapi flask backend servis endpoint",
+      "difficulty": {
+        "beginner": [
+          "https://fastapi.tiangolo.com/tutorial/",
+          "https://www.youtube.com/watch?v=-ykeT6kk4bk",
+          "https://flask.palletsprojects.com/en/2.3.x/quickstart/"
+        ],
+        "intermediate": [
+          "https://www.django-rest-framework.org/",
+          "https://www.youtube.com/watch?v=0sOvCWFmrtA",
+          "https://expressjs.com/"
+        ],
+        "advanced": [
+          "https://graphql.org/learn/",
+          "https://grpc.io/docs/",
+          "https://github.com/public-apis/public-apis"
+        ]
+      },
+      "learning_style": {
+        "video": [
+          "https://www.youtube.com/watch?v=-ykeT6kk4bk",
+          "https://www.youtube.com/watch?v=0sOvCWFmrtA"
+        ],
+        "reading": [
+          "https://fastapi.tiangolo.com/",
+          "https://flask.palletsprojects.com/"
+        ],
+        "practice": [
+          "https://github.com/public-apis/public-apis",
+          "https://www.postman.com/explore"
+        ],
+        "game": [
+          "https://www.postman.com/explore"
+        ]
+      },
+      "popularity": "popular"
+    },
+    {
+      "name": "Görüntü İşleme",
+      "keywords": "image processing opencv bilgisayarlı görü computer vision",
+      "difficulty": {
+        "beginner": [
+          "https://opencv.org/courses/",
+          "https://www.youtube.com/watch?v=oXlwWbU8l2o",
+          "https://docs.opencv.org/4.x/d9/df8/tutorial_root.html"
+        ],
+        "intermediate": [
+          "https://www.pyimagesearch.com/",
+          "https://www.coursera.org/learn/convolutional-neural-networks",
+          "https://www.youtube.com/c/PyImageSearch"
+        ],
+        "advanced": [
+          "https://paperswithcode.com/area/computer-vision",
+          "https://github.com/jbhuang0604/awesome-computer-vision",
+          "https://arxiv.org/list/cs.CV/recent"
+        ]
+      },
+      "learning_style": {
+        "video": [
+          "https://www.youtube.com/watch?v=oXlwWbU8l2o",
+          "https://www.youtube.com/c/PyImageSearch"
+        ],
+        "reading": [
+          "https://docs.opencv.org/",
+          "https://www.pyimagesearch.com/"
+        ],
+        "practice": [
+          "https://www.kaggle.com/competitions",
+          "https://github.com/jbhuang0604/awesome-computer-vision"
+        ],
+        "game": [
+          "https://www.kaggle.com/competitions"
+        ]
+      },
+      "popularity": "trending"
+    },
+    {
+      "name": "Doğal Dil İşleme",
+      "keywords": "nlp natural language processing metin analizi sentiment dil",
+      "difficulty": {
+        "beginner": [
+          "https://www.nltk.org/book/",
+          "https://www.youtube.com/watch?v=fNxaJsNG3-s",
+          "https://spacy.io/usage/spacy-101"
+        ],
+        "intermediate": [
+          "https://huggingface.co/course/chapter1",
+          "https://www.youtube.com/watch?v=8rXD5-xhemo",
+          "https://www.coursera.org/specializations/natural-language-processing"
+        ],
+        "advanced": [
+          "https://arxiv.org/list/cs.CL/recent",
+          "https://paperswithcode.com/area/natural-language-processing",
+          "https://github.com/keon/awesome-nlp"
+        ]
+      },
+      "learning_style": {
+        "video": [
+          "https://www.youtube.com/watch?v=fNxaJsNG3-s",
+          "https://www.youtube.com/watch?v=8rXD5-xhemo"
+        ],
+        "reading": [
+          "https://www.nltk.org/book/",
+          "https://huggingface.co/course/"
+        ],
+        "practice": [
+          "https://www.kaggle.com/competitions",
+          "https://huggingface.co/models"
+        ],
+        "game": [
+          "https://www.kaggle.com/competitions"
+        ]
+      },
+      "popularity": "trending"
+    },
+    {
+      "name": "Big Data",
+      "keywords": "big data hadoop spark büyük veri analiz distributed",
+      "difficulty": {
+        "beginner": [
+          "https://spark.apache.org/docs/latest/quick-start.html",
+          "https://www.youtube.com/watch?v=F8pyaR4uQ2g",
+          "https://www.coursera.org/learn/big-data-introduction"
+        ],
+        "intermediate": [
+          "https://databricks.com/learn",
+          "https://www.youtube.com/watch?v=7lEe91AL3Us",
+          "https://spark.apache.org/docs/latest/sql-programming-guide.html"
+        ],
+        "advanced": [
+          "https://spark.apache.org/docs/latest/",
+          "https://kafka.apache.org/documentation/",
+          "https://github.com/onurakpolat/awesome-bigdata"
+        ]
+      },
+      "learning_style": {
+        "video": [
+          "https://www.youtube.com/watch?v=F8pyaR4uQ2g",
+          "https://www.youtube.com/watch?v=7lEe91AL3Us"
+        ],
+        "reading": [
+          "https://spark.apache.org/docs/",
+          "https://databricks.com/learn"
+        ],
+        "practice": [
+          "https://databricks.com/try-databricks",
+          "https://www.kaggle.com/datasets"
+        ],
+        "game": [
+          "https://www.kaggle.com/competitions"
+        ]
+      },
+      "popularity": "trending"
+    },
+    {
+      "name": "Robotik",
+      "keywords": "robotics robot ros otomasyon mekatronik yapay zeka robotik",
+      "difficulty": {
+        "beginner": [
+          "https://www.ros.org/documentation/",
+          "https://www.youtube.com/watch?v=DBFYZRMLr70",
+          "https://www.coursera.org/learn/robotics-flight"
+        ],
+        "intermediate": [
+          "https://www.youtube.com/c/MITOpenCourseWare",
+          "https://wiki.ros.org/ROS/Tutorials",
+          "https://www.udacity.com/course/robotics-nanodegree--nd209"
+        ],
+        "advanced": [
+          "https://arxiv.org/list/cs.RO/recent",
+          "https://github.com/kiloreux/awesome-robotics",
+          "https://robotics.sciencemag.org/"
+        ]
+      },
+      "learning_style": {
+        "video": [
+          "https://www.youtube.com/watch?v=DBFYZRMLr70",
+          "https://www.youtube.com/c/MITOpenCourseWare"
+        ],
+        "reading": [
+          "https://www.ros.org/documentation/",
+          "https://wiki.ros.org/"
+        ],
+        "practice": [
+          "https://www.theconstruct.ai/",
+          "https://github.com/ros-simulation"
+        ],
+        "game": [
+          "https://www.theconstruct.ai/"
+        ]
+      },
+      "popularity": "normal"
+    }
+  ]
+}
