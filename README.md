@@ -59,3 +59,14 @@ Kullanıcı takibi
 - Bu siteyi Streamlit ile kurdum, yani başlatmak için Terminal'e "streamlit run app.py" bashlenmesi gerekecek.
 
 - Site kurulumu için Terminal'e "pip install -r requirements.txt" bashlemen gerek.
+
+## Site Görünümü ##
+
+<img width="1283" height="760" alt="Ekran Resmi 2025-11-17 13 58 00" src="https://github.com/user-attachments/assets/e6b6d720-f900-4e00-bc99-0460b925b185" />
+
+<img width="1283" height="760" alt="Ekran Resmi 2025-11-17 13 58 10" src="https://github.com/user-attachments/assets/74fbd15a-4e6f-4834-b9cf-e363fd56c964" />
+
+<img width="1283" height="760" alt="Ekran Resmi 2025-11-17 13 58 18" src="https://github.com/user-attachments/assets/ff5d4ba8-e242-47c6-95cb-701b18aa7497" />
+
+<img width="1283" height="760" alt="Ekran Resmi 2025-11-17 13 58 26" src="https://github.com/user-attachments/assets/519a1b66-b94d-40c0-9a1c-dfec9c663713" />
+
