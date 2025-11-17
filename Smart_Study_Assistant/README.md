@@ -8,7 +8,7 @@
 
 - Kullanıcı Adı kısmında bir üyelik sistemine ihtiyaç yok. 'Misafir' yerine istediğin adı girdiğin zaman sisteme girilmiş oluyor. Streak sistemi ise aynı, üyeliğe ihtiyaç yok. Bilgisayarından girdiğin an saymaya başlamış oluyor.
 
-## Sitenin amaç? ##
+## Sitenin amacı? ##
 
 Öğrenme sürecini kişiselleştirmek
 Doğru kaynaklara hızlıca ulaşmayı sağlamak
